@@ -1,0 +1,7 @@
+{
+  "name": "muslimbasicinfo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
